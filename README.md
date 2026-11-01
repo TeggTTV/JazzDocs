@@ -33,7 +33,7 @@ Changing position of Title with simple drag-n-drop
 <img width="1027" height="1327" alt="image" src="https://github.com/user-attachments/assets/68307fb7-e5f9-4129-b9ae-2c3b4c3d8ce8" />
 
 Header & Footer Text editable by just clicking + Page Numbers (content from a short story I wrote)
-<img width="1018" height="1323" alt="image" src="https://github.com/user-attachments/assets/d7f85e4b-3169-4ea0-a34f-296602243da5" />
+<img width="1846" height="1531" alt="image" src="https://github.com/user-attachments/assets/1a340542-c323-41f5-ad3f-b493d293b272" />
 
 Homepage
 <img width="2031" height="1537" alt="image" src="https://github.com/user-attachments/assets/06d301bd-fbde-4667-91f4-2c566442418b" />
