@@ -1,4 +1,4 @@
-# Weclcome to Jazz Docs👋
+# Welcome to Jazz Docs👋
 This project is a web-app approach to document editing with user-focused features.
 
 I honestly got tired of using Google Docs and Microsoft Word.
