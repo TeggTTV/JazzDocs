@@ -30,10 +30,13 @@ Cover Page for Novels
 <img width="2031" height="1532" alt="image" src="https://github.com/user-attachments/assets/7ba52bd0-c03a-4464-b236-91ba31e30d9e" />
 
 Changing position of Title with simple drag-n-drop
-<img width="1027" height="1327" alt="image" src="https://github.com/user-attachments/assets/68307fb7-e5f9-4129-b9ae-2c3b4c3d8ce8" />
+<img width="1887" height="1531" alt="image" src="https://github.com/user-attachments/assets/eca00fc7-d315-4837-8d55-15c69cc83834" />
 
 Header & Footer Text editable by just clicking + Page Numbers (content from a short story I wrote)
 <img width="1846" height="1531" alt="image" src="https://github.com/user-attachments/assets/1a340542-c323-41f5-ad3f-b493d293b272" />
 
 Homepage
 <img width="2031" height="1537" alt="image" src="https://github.com/user-attachments/assets/06d301bd-fbde-4667-91f4-2c566442418b" />
+
+Custom Fonts
+<img width="1880" height="1527" alt="image" src="https://github.com/user-attachments/assets/cdd4f1a4-0eda-43e5-a704-8be364f33ad5" />
