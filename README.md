@@ -25,6 +25,11 @@ If you have two minutes, help guide the feature roadmap by sharing what works an
 [Take the Jazz Docs Survey](https://docs.google.com/forms/d/e/1FAIpQLScAHG_tNKZCclgJu_TaVTaKvm2jEvNvMfOcpS6LydZ4ECYJWA/viewform?usp=header)
 
 ## Screenshots
+Spotify
+<img width="1238" height="1201" alt="image" src="https://github.com/user-attachments/assets/8696cc99-8691-4811-af7b-65f956978dc5" />
+
+Working Thumbnails using HTML2Canvas
+<img width="1240" height="1200" alt="image" src="https://github.com/user-attachments/assets/66f657e1-d158-4f82-986c-580f3bad2eea" />
 
 Cover Page for Novels
 <img width="2031" height="1532" alt="image" src="https://github.com/user-attachments/assets/7ba52bd0-c03a-4464-b236-91ba31e30d9e" />
