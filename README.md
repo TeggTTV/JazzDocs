@@ -14,9 +14,12 @@ This tool won't be a Google Doc clone, it will be a tool built specifically for 
 * Native dark mode and full theme customization
 * Custom keybindings
 * Font flexibility via system fonts and direct file uploads
-* Spotify integration for background audio while typing
-* User extension ecosystem
-* Local-first document storage options
+* Spotify integration
+* User themes and marketplace
+* User extension and marketplace
+* Locally saved documents and ecosystem
+* Keyboard haptics for immersion while typing
+
 
 ## Feedback & Research
 
