@@ -28,6 +28,9 @@ If you have two minutes, help guide the feature roadmap by sharing what works an
 [Take the Jazz Docs Survey](https://docs.google.com/forms/d/e/1FAIpQLScAHG_tNKZCclgJu_TaVTaKvm2jEvNvMfOcpS6LydZ4ECYJWA/viewform?usp=header)
 
 ## Screenshots
+Paragraph Spotlight
+<img width="1757" height="1537" alt="image" src="https://github.com/user-attachments/assets/04c7327a-46ad-44d8-94e5-b6533f1b972c" />
+
 Spotify
 <img width="1238" height="1201" alt="image" src="https://github.com/user-attachments/assets/8696cc99-8691-4811-af7b-65f956978dc5" />
 
